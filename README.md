@@ -1,4 +1,4 @@
-# DEPI React internships assignment for Menu Project
+# DEPI React internship assignment for Menu Project
 
 This is a menu project built using Bootstrap, JavaScript, HTML5, CSS, and an external API. The project demonstrates how to create a responsive and interactive menu interface.
 
