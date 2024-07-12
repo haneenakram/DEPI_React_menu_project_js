@@ -45,5 +45,5 @@ You can view the live project on GitHub Pages: [Menu Project](https://haneenakra
 
 ## Connect with Us
 
-- **My LinkedIn Profile**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-haneen-akram-blue?logo=linkedin)](https://www.linkedin.com/in/haneen-akram-4990331a1/)
-- **Mail**: [![Email](https://img.shields.io/badge/Email-haneenakram3040@gmail.com-blue?logo=gmail)](mailto:haneenakram3040@gmail.com)
+- **My LinkedIn Profile**: [![haneenakram](https://img.shields.io/badge/LinkedIn-haneen-akram-blue?logo=linkedin)](https://www.linkedin.com/in/haneen-akram-4990331a1/)
+- **Mail**: [![Email](https://img.shields.io/badge/Email-haneenakram-blue?logo=gmail)](mailto:haneenakram3040@gmail.com)
