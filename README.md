@@ -57,7 +57,7 @@ Special thanks to the DEPI instructor Mahmoud Shaaban for his guidance and suppo
 
 ## GitHub Page
 
-You can view the live project on GitHub Pages: [Menu Project](https://haneenakram.github.io/menu-project-js)
+You can view the live project on GitHub Pages: [Menu Project](https://haneenakram.github.io/DEPI_React_menu_project_js)
 
 ## Connect with Us
 
