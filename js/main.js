@@ -49,7 +49,7 @@ function displayRecipes(recipes){
         <div class="col-md-4" id=${recipes[i].recipe_id } onclick="recipeContainerwindow('${recipes[i].recipe_id}')">
             <div class="resipe-box make-pointer bg-light shadow-lg border rounded">
             <div class="resipe-img">
-            <img src=${recipes[i].image_url} class='w-100' alt="">
+            <img src=${recipes[i].image_url} class='w-100 img-fluid' alt="">
             </div>
             <div class="content px-2">
                 <h3 class="my-3 fs-5">${recipes[i].title}</h3>
@@ -79,8 +79,8 @@ var respiBoxImg = document.querySelector('#respi-box-img');
 var respiTitle = document.querySelector('#respi-title');
 var respiPuplsher = document.querySelector('#respi-puplesher');
 var ingredinetsMenu = document.querySelector('#ingredinets-menu');
-var source=document.getElementsByClassName("source");
-var publisher=document.getElementsByClassName("publisher");
+var source=document.getElementById("source");
+var publisher=document.getElementById("publisher");
 
 function GETAPI(recipeid){
     fetch(base_url+"/get?rId="+recipeid)
@@ -96,7 +96,7 @@ function displayRecipeDetails(recipe){
     for(var i = 0; i < recipe.ingredients.length; i++){
         var li = document.createElement('li');
         li.innerHTML = recipe.ingredients[i];
-        li.classList.add('py-2');
+        li.classList.add('py-2','border-bottom', 'border-1', 'border-black');
         ingredinetsMenu.appendChild(li);
     }
     source.href=recipe.source_url;
