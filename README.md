@@ -1,6 +1,6 @@
-# Menu Project
+# DEPI React internships assignment for Menu Project
 
-This is a basic menu project built using Bootstrap, JavaScript, HTML5, CSS, and an external API. The project demonstrates how to create a responsive and interactive menu interface.
+This is a menu project built using Bootstrap, JavaScript, HTML5, CSS, and an external API. The project demonstrates how to create a responsive and interactive menu interface.
 
 ## Features
 
@@ -9,30 +9,46 @@ This is a basic menu project built using Bootstrap, JavaScript, HTML5, CSS, and 
 - API integration for fetching menu data
 - Clean and modern UI with HTML5 and CSS
 
-## Getting Started
-
-### Prerequisites
-
-- Web browser (Chrome, Firefox, Edge, etc.)
-- Text editor or IDE (VS Code, Notepad++, etc.)
-
-### Installation
-
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/haneenakram/menu-project-js.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd menu-project-js
-   ```
-3. Open `index.html` in your web browser to view the project.
-
 ## Usage
 
 - The menu items are fetched from an external API and displayed dynamically.
 - The project uses Bootstrap for responsive design and styling.
 - JavaScript is used to handle API requests and update the DOM.
+
+## API Reference
+
+https://forkify-api.herokuapp.com/
+
+### Search
+Returns a list of recipes for a specific query.
+
+**Path:** https://forkify-api.herokuapp.com/api/search
+
+| Parameter | Required | Description |
+|-----------|----------|-------------|
+| q         | Yes      | Query text. For example `q=pizza`. See the list of all available queries 🡒 search queries |
+
+**Example URL:** https://forkify-api.herokuapp.com/api/search?q=pizza
+
+## Query Data JSON File
+
+This JSON file (`queries.json`) contains a collection of queries used in the website.
+
+### Example JSON Structure
+
+```json
+{
+  "queries": [
+    "carrot",
+    "broccoli",
+    "asparagus",
+    "cauliflower",
+    "corn",
+    "cucumber",
+    "green pepper"
+  ]
+}
+```
 
 ## Acknowledgements
 
