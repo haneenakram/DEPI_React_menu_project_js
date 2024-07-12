@@ -37,7 +37,7 @@ This is a basic menu project built using Bootstrap, JavaScript, HTML5, CSS, and 
 ## Acknowledgements
 
 Special thanks to the DEPI instructor Mahmoud Shaaban for his guidance and support throughout this project.
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmoud-shaaban-blue?logo=linkedin)](https://www.linkedin.com/in/mahmoud-shaaban-5192b720a/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmoud-shaaban-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahmoud-shaaban-5192b720a/)
 
 ## GitHub Page
 
@@ -45,5 +45,5 @@ You can view the live project on GitHub Pages: [Menu Project](https://haneenakra
 
 ## Connect with Us
 
-- **My LinkedIn Profile**: [![haneenakram](https://img.shields.io/badge/LinkedIn-haneen-akram-blue?logo=linkedin)](https://www.linkedin.com/in/haneen-akram-4990331a1/)
+- **My LinkedIn Profile**: [![haneenakram](https://img.shields.io/badge/LinkedIn-haneen-akram-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haneen-akram-4990331a1/)
 - **Mail**: [![Email](https://img.shields.io/badge/Email-haneenakram-blue?logo=gmail)](mailto:haneenakram3040@gmail.com)
